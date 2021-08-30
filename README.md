@@ -10,6 +10,8 @@ Stanford undergraduate studying **Computer Science** with a focus in **Artificia
 </br>
 
 ### Experience:
+- 👻 Software Engineering Intern at Snap Inc.
+- 🎨 Software Engineering Intern at Figma
 - 📈 Software Engineering Intern at Bloomberg
 - 🚗 Software Engineering Intern at Uber
 - 📱 Stanford Teaching Assistant - Mobile Augmented Reality Bootcamp
