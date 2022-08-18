@@ -1,5 +1,5 @@
 # Manuka Stratta
-Stanford undergraduate studying **Computer Science** with a focus in **Artificial Intelligence**. 
+Stanford undergraduate and master's student studying **Computer Science** with a focus in **Artificial Intelligence & Machine Learning**. 
 
 ### Connect with me:
 [<img align="left" alt="manukastratta | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
@@ -10,11 +10,16 @@ Stanford undergraduate studying **Computer Science** with a focus in **Artificia
 </br>
 
 ### Experience:
-- 👻 Software Engineering Intern at Snap Inc.
+- 🚗 Machine Learning Intern at Cruise
+- 🌱 Applied Deep Learning to satellite data to estimate soil organic carbon, with applications in sustainable agriculture.
+- 👻 Software Engineering Intern at Snap
 - 🎨 Software Engineering Intern at Figma
 - 📈 Software Engineering Intern at Bloomberg
-- 🚗 Software Engineering Intern at Uber
-- 📱 Stanford Teaching Assistant - Mobile Augmented Reality Bootcamp
+- 🚙 Software Engineering Intern at Uber
+- 📲 Software Engineering Intern at Uber
+- 🚙 Software Engineering Intern at Uber
+- 📱 Created a mobile application to help low-income workers learn about their rights & combat wage theft
+- 👓 Stanford Teaching Assistant - Created Stanford's First Mobile Augmented Reality Course, CS12SI
 - 🌲 Stanford Teaching Assistant - CS 11SI: Introduction to Virtual Reality Design and Development
 - 👩‍💻 Coding Mentor at Breakout Mentors
 ---
