@@ -16,8 +16,6 @@ Stanford undergraduate and master's student studying **Computer Science** with a
 - 🎨 Software Engineering Intern at Figma
 - 📈 Software Engineering Intern at Bloomberg
 - 🚙 Software Engineering Intern at Uber
-- 📲 Software Engineering Intern at Uber
-- 🚙 Software Engineering Intern at Uber
 - 📱 Created a mobile application to help low-income workers learn about their rights & combat wage theft
 - 👓 Stanford Teaching Assistant - Created Stanford's First Mobile Augmented Reality Course, CS12SI
 - 🌲 Stanford Teaching Assistant - CS 11SI: Introduction to Virtual Reality Design and Development
