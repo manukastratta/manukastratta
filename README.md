@@ -10,13 +10,13 @@ Stanford undergraduate and master's student studying **Computer Science** with a
 </br>
 
 ### Experience
-Software Engineering & Machine Learning:
-- 🚗 Machine Learning Intern at Cruise
-- 🌱 Applied Deep Learning to satellite data to estimate soil organic carbon, with applications in sustainable agriculture.
-- 👻 Software Engineering Intern at Snap
-- 🎨 Software Engineering Intern at Figma
-- 📈 Software Engineering Intern at Bloomberg
-- 🚙 Software Engineering Intern at Uber
+Machine Learning & Software Engineering Experience
+- 🚗 Machine Learning Engineer at Cruise
+- 🌱 Research in deep learning applied to satellite image data to locate wind energy infrastructure globally (with Stanford ML Group, under Prof. Andrew Ng).
+- 👻 Software Engineering Intern at Snap (AR development)
+- 🎨 Software Engineering Intern at Figma (full-stack)
+- 📈 Software Engineering Intern at Bloomberg (full-stack)
+- 🚙 Software Engineering Intern at Uber (mobile development)
 
 Education:
 - 📱 Created a mobile application to help low-income workers learn about their rights & combat wage theft
