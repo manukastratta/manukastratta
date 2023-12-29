@@ -1,5 +1,7 @@
 # Manuka Stratta
-Stanford undergraduate and master's student studying **Computer Science** with a focus in **Artificial Intelligence & Machine Learning**. 
+Machine Learning Engineer at Cruise, on the Perception (Tracking) team.
+
+Graduated from Stanford University with B.S. and M.S. in Computer Science with a focus in Artificial Intelligence & Machine Learning. 
 
 ### Connect with me
 [<img align="left" alt="manukastratta | LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>][linkedin]
